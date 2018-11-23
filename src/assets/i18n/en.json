@@ -1,0 +1,11 @@
+{
+    "HELLO": "hello {{value}}",
+    "search": "search",
+    "submit": "submit",
+    "home": {
+        "firstPage": "first",
+        "lastPage": "last",
+        "previousPage": "prev",
+        "nextPage": "next"
+    }
+}

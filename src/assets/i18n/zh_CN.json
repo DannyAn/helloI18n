@@ -1,0 +1,11 @@
+{
+    "HELLO": "你好 {{value}}",
+    "search": "搜索",
+    "submit": "提交",
+    "home": {
+        "firstPage": "首页",
+        "lastPage": "末页",
+        "previousPage": "上一页",
+        "nextPage": "下一页"
+    }
+}
